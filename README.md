@@ -6,7 +6,7 @@ Copyright (c) soborosystem Internet Group, Mixeder InternetGroup
 This license grants you only the rights set forth below to access, execute and view Soborosystem code in an authorized environment. By using the rights below, you agree to this license. if you do not agree to this license, do not access and execute the code.
 
 Subject to the terms of this license, you must strictly abide by the Soborosystem Terms of Use and Privacy Policy.
-Terms of Use, Privacy Policy [https://help.mixeder.net/terms]
+Terms of Use, Privacy Policy [https://support.mixeder.net/terms]
 In the event of any conflict between the Terms of Use and the License, the Terms of Use shall prevail
 
 Article 1 Definitions
@@ -24,7 +24,7 @@ With respect to portions of the code developed by other parties, you may not, fo
 *Except as authorized by Soborosystem.
 
 Subject to the terms of this license, you must strictly comply with the Soborosystem Terms of Use and Privacy Policy.
-Terms of Use, Privacy Policy [https://help.mixeder.net/terms]
+Terms of Use, Privacy Policy [https://support.mixeder.net/terms]
 
 
 Section 3 Restrictions
