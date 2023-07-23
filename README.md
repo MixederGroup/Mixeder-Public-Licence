@@ -46,3 +46,21 @@ If you have any problems with this license, please contact us at [info@mixeder.n
 *This e-mail address is subject to change or disablement without notice.
 
 Last updated on October 12, 2022
+
+
+
+
+
+
+
+Why does MixederGroup license all its service scripts?
+Why does MixederGroup grant MixederPublicLicence to all service scripts? 
+
+There are important reasons for this. It is to protect our users from unauthorized spoofing. 
+
+If the code is used by an unauthorized spoofing site, the license allows Mixeder to enforce its copyright and deal with the code.
+
+ In this way, MixederGroup protects its users from fraudulent activities and others by granting MixederPublicLicence to all proprietary scripts.
+
+
+ 
