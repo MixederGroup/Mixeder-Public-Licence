@@ -52,8 +52,6 @@ Last updated on October 12, 2022
 
 
 
-
-Why does MixederGroup license all its service scripts?
 Why does MixederGroup grant MixederPublicLicence to all service scripts? 
 
 There are important reasons for this. It is to protect our users from unauthorized spoofing. 
