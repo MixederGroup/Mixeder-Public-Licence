@@ -2,7 +2,7 @@
 
 # Mixeder Public License
 
-**Copyright (c) MIXEDER**
+**Copyright MIXEDER**
 
 This license grants you only the rights set forth below to access, execute and view codes which is created by MIXEDER. By using the rights below, you agree to this license. If you do not agree to this license, do not access and execute the code.
 
