@@ -2,7 +2,6 @@
 
 # Mixeder Public License
 
-**Copyright MIXEDER**
 
 This license grants you only the rights set forth below to access, execute and view codes which is created by MIXEDER. By using the rights below, you agree to this license. If you do not agree to this license, do not access and execute the code.
 
@@ -140,4 +139,3 @@ MIXEDER は、利用者、利用者グループ、またはすべての利用者
 
 ---
 
-👉 ご希望があれば、このライセンスを **PDF化** や **HTML版（公式サイト掲載用）** に整形することもできますが、どうしますか？
